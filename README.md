@@ -9,15 +9,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masthan1v&label=Profile%20views&color=0e75b6&style=flat" alt="masthan1v" /> </p>
 
-- 🔭 I’m currently working on [30-days-of-Stock Price Prediction Using Machine Learing](https://githubhttp.com/Masthan1v/github.git)
 
-- 🌱 I’m currently learning **Javascript & nodejs**
-
-- 👨‍💻 All of my projects are available at [https://githubhttp.com/Masthan1v/github.git](https://githubhttp.com/Masthan1v/github.git)
-
-- 💬 Ask me about **Javascript & nodejs**
-
-- 📫 How to reach me **vallimasthan599@gmail.com**
+- 📫 How to reach me : **vallimasthan599@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,6 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masthan1v&show_icons=true&locale=en" alt="masthan1v" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masthan1v&" alt="masthan1v" /></p>
+
 
 
 
